@@ -8,18 +8,7 @@ AIdventure is more than just a collection of code; it's a journey into the cutti
 
 ## Explore the AIdventure Blog
 
-Dive into our blog, where we document the twists and turns of our AI exploration. From hands-on tutorials and thought-provoking articles to deep dives into the latest trends, our blog is your go-to resource for unraveling the mysteries of artificial intelligence.
-
-## Repository Highlights
-
-### 1. **AI Magic 🎩✨**
-   Discover enchanting algorithms, magical neural networks, and spellbinding models that make AI come to life.
-
-### 2. **Learning Chronicles 📚🔍**
-   Join us on our learning journey! We share our triumphs, pitfalls, and eureka moments as we navigate the vast landscape of AI and machine learning.
-
-### 3. **Code Chronicles 💻🚀**
-   Unearth the secrets hidden in our codebase. From small utilities to ambitious projects, each line of code tells a story of experimentation and growth.
+Dive into [AIdventure blog](https://aidventure.es), where we document the twists and turns of our AI exploration. From hands-on tutorials and thought-provoking articles to deep dives into the latest trends, our blog is your go-to resource for unraveling the mysteries of artificial intelligence.
 
 ## Get Involved
 
